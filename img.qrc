@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>trash/1.jpg</file>
+        <file>trash/2.jpg</file>
+        <file>trash/3.jpg</file>
+        <file>trash/4.jpg</file>
+        <file>trash/5.jpg</file>
+        <file>trash/11.jpg</file>
+        <file>trash/22.jpg</file>
+        <file>trash/33.jpg</file>
+        <file>trash/44.jpg</file>
+        <file>trash/55.jpg</file>
+        <file>trash/66.jpg</file>
+        <file>trash/77.jpg</file>
+        <file>trash/a.jpg</file>
+        <file>trash/album.jpg</file>
+        <file>trash/b.jpg</file>
+        <file>trash/c.jpg</file>
+        <file>trash/d.jpg</file>
+        <file>trash/fil.jpg</file>
+        <file>trash/knopa.jpg</file>
+        <file>trash/krug.jpg</file>
+        <file>trash/m.jpg</file>
+        <file>trash/nepon.jpg</file>
+        <file>trash/off.jpg</file>
+        <file>trash/p.jpg</file>
+        <file>trash/po.jpg</file>
+        <file>trash/s.jpg</file>
+        <file>trash/str.jpg</file>
+        <file>trash/t.jpg</file>
+        <file>trash/vkl.jpg</file>
+    </qresource>
+</RCC>
